@@ -1,0 +1,22 @@
+{
+  "name": "project-homework-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nanoid": "^4.0.1",
+    "yargs": "^17.7.1"
+  },
+  "keywords": [],
+  "description": ""
+}
